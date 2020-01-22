@@ -1,0 +1,561 @@
+[
+    {
+        "action": "bb defend",
+        "basename": "bb defend 12-20.png",
+        "dir": "BB DEF",
+        "filename": "ranges/BB DEF/bb defend 12-20.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "12-20", "info": "12-20"
+    },
+    {
+        "action": "bb defend",
+        "basename": "bb defend 25-35.png",
+        "dir": "BB DEF",
+        "filename": "ranges/BB DEF/bb defend 25-35.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "25-35", "info": "25-35"
+    },
+    {
+        "action": "bb defend",
+        "basename": "bb defend 40-50.png",
+        "dir": "BB DEF",
+        "filename": "ranges/BB DEF/bb defend 40-50.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "40-50", "info": "40-50"
+    },
+    {
+        "action": "bb defend",
+        "basename": "BB vs SB ranges.png",
+        "dir": "BB vs SB",
+        "filename": "ranges/BB vs SB/BB vs SB ranges.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "sb"
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb sb1.png",
+        "dir": "BB vs SB",
+        "filename": "ranges/BB vs SB/openraising 100bb sb1.png",
+        "hero": "sb",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb sb2.png",
+        "dir": "BB vs SB",
+        "filename": "ranges/BB vs SB/openraising 100bb sb2.png",
+        "hero": "sb",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb mixed.png",
+        "dir": "BB vs SB",
+        "filename": "ranges/BB vs SB/openraising 25bb mixed.png",
+        "hero": "bb",
+        "stack": "25bb",
+        "vil": "sb", "info": "mixed"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "BU vs. sb-bb et SB vs. bb.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/BU vs. sb-bb et SB vs. bb.png",
+        "hero": "bu",
+        "stack": "",
+        "vil": "sb-bb"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "BU vs. sb-bb et SB vs. bb.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/BU vs. sb-bb et SB vs. bb.png",
+        "hero": "sb",
+        "stack": "",
+        "vil": "bb"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "CO vs. bu-bb.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/CO vs. bu-bb.png",
+        "vil": "bu-bb",
+        "stack": "",
+        "hero": "co"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "MP vs CO BU.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/MP vs CO BU.png",
+        "hero": "co-bu",
+        "stack": "",
+        "vil": "mp"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "MP vs SB-BB.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/MP vs SB-BB.png",
+        "vil": "sb-bb",
+        "stack": "",
+        "hero": "mp"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "utg vs. bu-bb.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/utg vs. bu-bb.png",
+        "vil": "bu-bb",
+        "stack": "",
+        "hero": "utg"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "utg vs. hj-co.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/utg vs. hj-co.png",
+        "vil": "hj-co",
+        "stack": "",
+        "hero": "utg"
+    },
+    {
+        "action": "Calling Rejams",
+        "basename": "utg vs. utg1-mp.png",
+        "dir": "Calling Rejams",
+        "filename": "ranges/Calling Rejams/utg vs. utg1-mp.png",
+        "hero": "utg1-mp",
+        "stack": "",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 20bb+ bu vs sb bb.png",
+        "dir": "flatcalling_3betting_20bb-30bb",
+        "filename": "ranges/flatcalling_3betting_20bb-30bb/flatting3betting 20bb+ bu vs sb bb.png",
+        "hero": "sb-bb",
+        "stack": "20bb+",
+        "vil": "bu-sb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 20bb+ co vs bu bb.png",
+        "dir": "flatcalling_3betting_20bb-30bb",
+        "filename": "ranges/flatcalling_3betting_20bb-30bb/flatting3betting 20bb+ co vs bu bb.png",
+        "vil": "co",
+        "stack": "20bb+",
+        "hero": "bu-sb-bb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 20bb+ mp vs bu bb.png",
+        "dir": "flatcalling_3betting_20bb-30bb",
+        "filename": "ranges/flatcalling_3betting_20bb-30bb/flatting3betting 20bb+ mp vs bu bb.png",
+        "vil": "mp",
+        "stack": "20bb+",
+        "hero": "bu-bb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 20bb+ UTG+1 MP BU vs UTG.png",
+        "dir": "flatcalling_3betting_20bb-30bb",
+        "filename": "ranges/flatcalling_3betting_20bb-30bb/flatting3betting 20bb+ UTG+1 MP BU vs UTG.png",
+        "hero": "utg+1-mp-bu",
+        "stack": "20bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 20bb+ vs utg sb-bb.png",
+        "dir": "flatcalling_3betting_20bb-30bb",
+        "filename": "ranges/flatcalling_3betting_20bb-30bb/flatting3betting 20bb+ vs utg sb-bb.png",
+        "hero": "sb-bb",
+        "stack": "20bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 30bb+ vs bu sb.png",
+        "dir": "flatcalling_3betting_30bb",
+        "filename": "ranges/flatcalling_3betting_30bb/flatting3betting 30bb+ vs bu sb.png",
+        "hero": "sb-bb",
+        "stack": "30bb+",
+        "vil": "bu-sb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 30bb+ vs co bu-sb.png",
+        "dir": "flatcalling_3betting_30bb",
+        "filename": "ranges/flatcalling_3betting_30bb/flatting3betting 30bb+ vs co bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "30bb+",
+        "vil": "co"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 30bb+ vs mp bu-sb.png",
+        "dir": "flatcalling_3betting_30bb",
+        "filename": "ranges/flatcalling_3betting_30bb/flatting3betting 30bb+ vs mp bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "30bb+",
+        "vil": "mp"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 30bb+ vs utg bu-sb neu.png",
+        "dir": "flatcalling_3betting_30bb",
+        "filename": "ranges/flatcalling_3betting_30bb/flatting3betting 30bb+ vs utg bu-sb neu.png",
+        "hero": "bu-sb",
+        "stack": "30bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 30bb+ vs utg utg1-mp neu.png",
+        "dir": "flatcalling_3betting_30bb",
+        "filename": "ranges/flatcalling_3betting_30bb/flatting3betting 30bb+ vs utg utg1-mp neu.png",
+        "hero": "utg+1-mp",
+        "stack": "30bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 40bb+ vs BU.png",
+        "dir": "flatcalling_3betting_40-50bb",
+        "filename": "ranges/flatcalling_3betting_40-50bb/flatting3betting 40bb+ vs BU.png",
+        "hero": "sb-bb",
+        "stack": "40bb+",
+        "vil": "bu-sb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 40bb+ vs co bu-sb.png",
+        "dir": "flatcalling_3betting_40-50bb",
+        "filename": "ranges/flatcalling_3betting_40-50bb/flatting3betting 40bb+ vs co bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "40bb+",
+        "vil": "co"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 40bb+ vs mp bu-sb.png",
+        "dir": "flatcalling_3betting_40-50bb",
+        "filename": "ranges/flatcalling_3betting_40-50bb/flatting3betting 40bb+ vs mp bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "40bb+",
+        "vil": "mp"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 40bb+ vs utg bu-sb.png",
+        "dir": "flatcalling_3betting_40-50bb",
+        "filename": "ranges/flatcalling_3betting_40-50bb/flatting3betting 40bb+ vs utg bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "40bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 40bb+ vs utg utg1-mp.png",
+        "dir": "flatcalling_3betting_40-50bb",
+        "filename": "ranges/flatcalling_3betting_40-50bb/flatting3betting 40bb+ vs utg utg1-mp.png",
+        "hero": "utg+1-mp",
+        "stack": "40bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 50bb+ vs bu (sb) sb-bb.png",
+        "dir": "flatcalling_3betting_50bb+",
+        "filename": "ranges/flatcalling_3betting_50bb+/flatting3betting 50bb+ vs bu (sb) sb-bb.png",
+        "hero": "sb-bb",
+        "stack": "50bb+",
+        "vil": "bu-sb"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 50bb+ vs co bu-sb.png",
+        "dir": "flatcalling_3betting_50bb+",
+        "filename": "ranges/flatcalling_3betting_50bb+/flatting3betting 50bb+ vs co bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "50bb+",
+        "vil": "co"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 50bb+ vs mp bu-sb.png",
+        "dir": "flatcalling_3betting_50bb+",
+        "filename": "ranges/flatcalling_3betting_50bb+/flatting3betting 50bb+ vs mp bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "50bb+",
+        "vil": "mp"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 50bb+ vs utg bu-sb.png",
+        "dir": "flatcalling_3betting_50bb+",
+        "filename": "ranges/flatcalling_3betting_50bb+/flatting3betting 50bb+ vs utg bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "50bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "Flat3bet",
+        "basename": "flatting3betting 50bb+ vs utg.png",
+        "dir": "flatcalling_3betting_50bb+",
+        "filename": "ranges/flatcalling_3betting_50bb+/flatting3betting 50bb+ vs utg.png",
+        "hero": "utg+1-mp-co",
+        "stack": "50bb+",
+        "vil": "utg"
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 10-20bb bu-sb.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "10-20bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 10-20bb MP-CO.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb MP-CO.png",
+        "hero": "MP-CO",
+        "stack": "10-20bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 10-20bb utg-utg2.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "10-20bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb co-bu.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb co-bu.png",
+        "hero": "co-bu",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb mixed.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb mixed.png",
+        "hero": "bu-sb",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb mp-hj.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb mp-hj.png",
+        "hero": "mp-hj",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb utg-utg2.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb co-bu.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb co-bu.png",
+        "hero": "co-bu",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb mp-hj.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb mp-hj.png",
+        "hero": "mp-hj",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb sb1.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb sb1.png",
+        "hero": "sb",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb sb2.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb sb2.png",
+        "hero": "sb",
+        "stack": "100bb",
+        "vil": "",
+	"info": "vs type player"
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb utg-utg2.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "Pushing",
+        "basename": "bu-sb.png",
+        "dir": "Pushing",
+        "filename": "ranges/Pushing/bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "10bb",
+        "vil": ""
+    },
+    {
+        "action": "Pushing",
+        "basename": "mp-co.png",
+        "dir": "Pushing",
+        "filename": "ranges/Pushing/mp-co.png",
+        "hero": "mp-co",
+        "stack": "10bb",
+        "vil": ""
+    },
+    {
+        "action": "Pushing",
+        "basename": "utg-utg+2.png",
+        "dir": "Pushing",
+        "filename": "ranges/Pushing/utg-utg+2.png",
+        "hero": "utg-utg2",
+        "stack": "10bb",
+        "vil": ""
+    },
+    {
+        "action": "Rejam",
+        "basename": "Rejam BB vs BU SB.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam BB vs BU SB.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "bu-sb"
+    },
+    {
+        "action": "Rejam",
+        "basename": "Rejam BB vs MP-CO.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam BB vs MP-CO.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "mp-co"
+    },
+    {
+        "action": "Rejam",
+        "basename": "Rejam BB vs UTG UTG+1 UTG+2.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam BB vs UTG UTG+1 UTG+2.png",
+        "hero": "bb",
+        "stack": "",
+        "vil": "utg-utg1-utg2"
+    },
+    {
+        "action": "Rejam",
+        "basename": "Rejam BU vs MP HJ CO.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam BU vs MP HJ CO.png",
+        "hero": "bu",
+        "stack": "",
+        "vil": "mp-hj-co"
+    },
+    {
+        "action": "Rejam",
+        "basename": "rejam co vs. mp-hj.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/rejam co vs. mp-hj.png",
+        "hero": "co",
+        "stack": "",
+        "vil": "mp-hj"
+    },
+ {
+        "action": "Rejam",
+        "basename": "rejam co vs. utg-utg2.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/rejam co vs. utg-utg2.png",
+        "hero": "co",
+        "stack": "",
+        "vil": "utg-utg1-utg2"
+    },
+{
+        "action": "Rejam",
+        "basename": "Rejam HJ vs UTG UTG+1 UTG+2.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam HJ vs UTG UTG+1 UTG+2.png",
+        "hero": "hj",
+        "stack": "",
+        "vil": "utg-utg1-utg2"
+    },
+{
+        "action": "Rejam",
+        "basename": "Rejam MP vs UTG UTG+1 UTG+2.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam MP vs UTG UTG+1 UTG+2.png",
+        "hero": "mp",
+        "stack": "",
+        "vil": "utg-utg1-utg2"
+    },
+  {
+        "action": "Rejam",
+        "basename": "Rejam SB vs BU.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam SB vs BU.png",
+        "hero": "sb",
+        "stack": "",
+        "vil": "bu"
+    },
+    {
+        "action": "Rejam",
+        "basename": "Rejam SB vs MP HJ CO.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rejam SB vs MP HJ CO.png",
+        "hero": "sb",
+        "stack": "",
+        "vil": "mp-hj-co"
+    },
+    {
+        "action": "Rejam",
+        "basename": "rejam sb vs. utg-utg2.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/rejam sb vs. utg-utg2.png",
+        "hero": "sb",
+        "stack": "",
+        "vil": "utg-utg1-utg2"
+    },
+     {
+        "action": "Rejam",
+        "basename": "Rjeam HJ vs MP.png",
+        "dir": "Rejaming",
+        "filename": "ranges/Rejaming/Rjeam HJ vs MP.png",
+        "hero": "hj",
+        "stack": "",
+        "vil": "mp"
+    }
+]
