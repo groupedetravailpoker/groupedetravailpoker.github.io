@@ -1,0 +1,178 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="d3.min.js"></script>
+    <title>Ranges</title>
+  </head>
+
+<style>
+</style>
+<body>
+
+<script>
+
+d3.json("ranges.json", function(error, data) {
+  console.log(data);
+
+  /*
+  var nav = d3.select('body')
+               .append('nav')
+               .attr('class' ,'navbar navbar-expand-md navbar-dark bg-dark fixed-top');
+  var nav_div = nav.append('div');
+  var tabs = ["OR","bb defend","Flat3bet", "Rejam", "Calling Rejams", "Push"];
+  nav_div.selectAll(".btn")
+    .data(tabs)
+    .enter().append("a")
+    .attr("class", "btn btn-primary btn-sm")
+    .html(function(d) { return d; })
+  */
+  tabs_ = d3.map(data, function(d){return d.action;}).keys();
+  console.log(tabs_);
+  var tabs = ["OR","bb defend","Flat3bet", "Rejam", "Calling Rejams", "Pushing"];
+  nav_ul = d3.select('body').append('ul').attr('class',"nav nav-tabs").attr('role', 'tablist');
+  nav_ul.selectAll('.nav-item')
+    .data(tabs)
+    .enter().append('li')
+    .attr('class', "nav-item")
+    .append('a')
+    .attr('class','nav-link')
+    .attr('data-toggle',"tab")
+    .attr('href', function(d) { return '#'+d; })
+    .attr('role',"tab")
+    .attr('aria-controls', function(d) { return '#'+d; })
+    .attr('aria-selected',"true")
+    .html(function(d) { return d; });
+
+  or = data.filter(function(d){return d.action == 'OR'});
+  console.log(or);
+  bbs = d3.map(or, function(d){return d.stack;}).keys();
+  console.log(bbs);
+
+  div_tabs = d3.select('body').append('div').attr('class',"tab-content mt-3");
+  div_tabs.selectAll(".tab-pane").data(tabs).enter()
+    .append('div')
+    .attr('class',"tab-pane")
+    .attr('id',function(d) { return d; })
+    .attr('aria-labelledby', function(d) { return d + '-tab';})
+    .attr('role',"tabpanel")
+    .html(function(d) { 
+          lst = data.filter(function(s){return s.action == d});
+          fn = lst.map(function(d){return d.filename + '<br>';});
+          return '';
+          })
+    ;
+
+  function get_stacks(dat,action){
+    lst = dat.filter(function(s){return s.action == action});
+    fn = d3.map(lst, function(d){return d.stack;}).keys();
+    return fn;
+  }
+
+  div_tabs.selectAll('.tab-pane').append('div').html(function(d){return get_stacks(data,d);})
+  div_tabs.selectAll('.tab-pane').append('div')
+    .selectAll('.imm')
+    .data(function(d){return data.filter(function(s){return s.action == d})})
+    .enter()
+    .append('img')
+      .attr('class', 'imm')
+      .attr('src', function(s){return s.filename;})
+      .attr('width', '30%')
+      .attr('stack', function(s){return s.stack;})
+      .attr('hero', function(s){return s.hero;})
+      .attr('vil', function(s){return s.vil;})
+      //.style('display','none')
+      ;
+
+  function display_image(data,action,stack,hero){
+      tab = d3.select('#' + action);
+  }
+
+})
+
+/*
+var data = [
+  {x: 10.0, y: 9.14},
+  {x:  8.0, y: 8.14},
+  {x: 13.0, y: 8.74},
+  {x:  9.0, y: 8.77},
+  {x: 11.0, y: 9.26},
+  {x: 14.0, y: 8.10},
+  {x:  6.0, y: 6.13},
+  {x:  4.0, y: 3.10},
+  {x: 12.0, y: 9.13},
+  {x:  7.0, y: 7.26},
+  {x:  5.0, y: 4.74},
+];
+
+var margin = {top: 40, right: 40, bottom: 40, left: 40},
+    width = 960,
+    height = 500;
+
+var x = pad(d3.scale.linear()
+    .domain(d3.extent(data, function(d) { return d.x; }))
+    .range([0, width - margin.left - margin.right]), 40);
+
+var y = pad(d3.scale.linear()
+    .domain(d3.extent(data, function(d) { return d.y; }))
+    .range([height - margin.top - margin.bottom, 0]), 40);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom")
+    .tickPadding(8);
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickPadding(8);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .attr("class", "dot chart")
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svg.selectAll(".dot")
+    .data(data)
+  .enter().append("circle")
+    .attr("class", "dot")
+    .attr("cx", function(d) { return x(d.x); })
+    .attr("cy", function(d) { return y(d.y); })
+    .attr("r", 12);
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + y.range()[0] + ")")
+    .call(xAxis);
+
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+function pad(scale, k) {
+  var range = scale.range();
+  if (range[0] > range[1]) k *= -1;
+  return scale.domain([range[0] - k, range[1] + k].map(scale.invert)).nice();
+}
+*/
+</script>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+<script src="./assets/js/vendor/popper.min.js"></script>
+<script src="./dist/js/bootstrap.min.js"></script>
+ </body>
+</html>
+
