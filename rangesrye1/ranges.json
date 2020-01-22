@@ -1,6 +1,6 @@
 [
     {
-        "action": "bb defend",
+        "action": "BB-defend",
         "basename": "bb defend 12-20.png",
         "dir": "BB DEF",
         "filename": "ranges/BB DEF/bb defend 12-20.png",
@@ -9,7 +9,7 @@
         "vil": "12-20", "info": "12-20"
     },
     {
-        "action": "bb defend",
+        "action": "BB-defend",
         "basename": "bb defend 25-35.png",
         "dir": "BB DEF",
         "filename": "ranges/BB DEF/bb defend 25-35.png",
@@ -18,7 +18,7 @@
         "vil": "25-35", "info": "25-35"
     },
     {
-        "action": "bb defend",
+        "action": "BB-defend",
         "basename": "bb defend 40-50.png",
         "dir": "BB DEF",
         "filename": "ranges/BB DEF/bb defend 40-50.png",
@@ -27,22 +27,22 @@
         "vil": "40-50", "info": "40-50"
     },
     {
-        "action": "bb defend",
+        "action": "BB-defend",
         "basename": "BB vs SB ranges.png",
         "dir": "BB vs SB",
         "filename": "ranges/BB vs SB/BB vs SB ranges.png",
         "hero": "bb",
         "stack": "",
-        "vil": "sb"
+        "vil": "sb limp"
     },
-    {
+      {
         "action": "OR",
         "basename": "openraising 100bb sb1.png",
         "dir": "BB vs SB",
         "filename": "ranges/BB vs SB/openraising 100bb sb1.png",
         "hero": "sb",
         "stack": "100bb",
-        "vil": ""
+        "vil": "tight-good"
     },
     {
         "action": "OR",
@@ -51,6 +51,33 @@
         "filename": "ranges/BB vs SB/openraising 100bb sb2.png",
         "hero": "sb",
         "stack": "100bb",
+        "vil": "G.mix-LP"
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb co-bu.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb co-bu.png",
+        "hero": "co-bu",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb mp-hj.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb mp-hj.png",
+        "hero": "mp-hj",
+        "stack": "100bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 100bb utg-utg2.png",
+        "dir": "Openraising 40-100bb",
+        "filename": "ranges/Openraising 40-100bb/openraising 100bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "100bb",
         "vil": ""
     },
     {
@@ -58,77 +85,131 @@
         "basename": "openraising 25bb mixed.png",
         "dir": "BB vs SB",
         "filename": "ranges/BB vs SB/openraising 25bb mixed.png",
-        "hero": "bb",
+        "hero": "bu-sb",
         "stack": "25bb",
-        "vil": "sb", "info": "mixed"
+        "vil": "", "info": "mixed"
+    },
+     {
+        "action": "OR",
+        "basename": "openraising 10-20bb bu-sb.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb bu-sb.png",
+        "hero": "bu-sb",
+        "stack": "10-20bb",
+        "vil": ""
     },
     {
-        "action": "Calling Rejams",
+        "action": "OR",
+        "basename": "openraising 10-20bb MP-CO.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb MP-CO.png",
+        "hero": "mp-co",
+        "stack": "10-20bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 10-20bb utg-utg2.png",
+        "dir": "Openraising 10-20bb",
+        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "10-20bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb co-bu.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb co-bu.png",
+        "hero": "co-bu",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb mp-hj.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb mp-hj.png",
+        "hero": "mp-hj",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "OR",
+        "basename": "openraising 25bb utg-utg2.png",
+        "dir": "Openraising 20-40bb",
+        "filename": "ranges/Openraising 20-40bb/openraising 25bb utg-utg2.png",
+        "hero": "utg-utg2",
+        "stack": "25bb",
+        "vil": ""
+    },
+    {
+        "action": "CallingRejams",
         "basename": "BU vs. sb-bb et SB vs. bb.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/BU vs. sb-bb et SB vs. bb.png",
         "hero": "bu",
         "stack": "",
         "vil": "sb-bb"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "BU vs. sb-bb et SB vs. bb.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/BU vs. sb-bb et SB vs. bb.png",
         "hero": "sb",
         "stack": "",
         "vil": "bb"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "CO vs. bu-bb.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/CO vs. bu-bb.png",
         "vil": "bu-bb",
         "stack": "",
         "hero": "co"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "MP vs CO BU.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/MP vs CO BU.png",
         "hero": "co-bu",
         "stack": "",
         "vil": "mp"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "MP vs SB-BB.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/MP vs SB-BB.png",
         "vil": "sb-bb",
         "stack": "",
         "hero": "mp"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "utg vs. bu-bb.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/utg vs. bu-bb.png",
         "vil": "bu-bb",
         "stack": "",
         "hero": "utg"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "utg vs. hj-co.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/utg vs. hj-co.png",
         "vil": "hj-co",
         "stack": "",
         "hero": "utg"
     },
     {
-        "action": "Calling Rejams",
+        "action": "CallingRejams",
         "basename": "utg vs. utg1-mp.png",
-        "dir": "Calling Rejams",
+        "dir": "CallingRejams",
         "filename": "ranges/Calling Rejams/utg vs. utg1-mp.png",
         "hero": "utg1-mp",
         "stack": "",
@@ -313,115 +394,6 @@
         "hero": "utg+1-mp-co",
         "stack": "50bb+",
         "vil": "utg"
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 10-20bb bu-sb.png",
-        "dir": "Openraising 10-20bb",
-        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb bu-sb.png",
-        "hero": "bu-sb",
-        "stack": "10-20bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 10-20bb MP-CO.png",
-        "dir": "Openraising 10-20bb",
-        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb MP-CO.png",
-        "hero": "MP-CO",
-        "stack": "10-20bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 10-20bb utg-utg2.png",
-        "dir": "Openraising 10-20bb",
-        "filename": "ranges/Openraising 10-20bb/openraising 10-20bb utg-utg2.png",
-        "hero": "utg-utg2",
-        "stack": "10-20bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 25bb co-bu.png",
-        "dir": "Openraising 20-40bb",
-        "filename": "ranges/Openraising 20-40bb/openraising 25bb co-bu.png",
-        "hero": "co-bu",
-        "stack": "25bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 25bb mixed.png",
-        "dir": "Openraising 20-40bb",
-        "filename": "ranges/Openraising 20-40bb/openraising 25bb mixed.png",
-        "hero": "bu-sb",
-        "stack": "25bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 25bb mp-hj.png",
-        "dir": "Openraising 20-40bb",
-        "filename": "ranges/Openraising 20-40bb/openraising 25bb mp-hj.png",
-        "hero": "mp-hj",
-        "stack": "25bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 25bb utg-utg2.png",
-        "dir": "Openraising 20-40bb",
-        "filename": "ranges/Openraising 20-40bb/openraising 25bb utg-utg2.png",
-        "hero": "utg-utg2",
-        "stack": "25bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 100bb co-bu.png",
-        "dir": "Openraising 40-100bb",
-        "filename": "ranges/Openraising 40-100bb/openraising 100bb co-bu.png",
-        "hero": "co-bu",
-        "stack": "100bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 100bb mp-hj.png",
-        "dir": "Openraising 40-100bb",
-        "filename": "ranges/Openraising 40-100bb/openraising 100bb mp-hj.png",
-        "hero": "mp-hj",
-        "stack": "100bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 100bb sb1.png",
-        "dir": "Openraising 40-100bb",
-        "filename": "ranges/Openraising 40-100bb/openraising 100bb sb1.png",
-        "hero": "sb",
-        "stack": "100bb",
-        "vil": ""
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 100bb sb2.png",
-        "dir": "Openraising 40-100bb",
-        "filename": "ranges/Openraising 40-100bb/openraising 100bb sb2.png",
-        "hero": "sb",
-        "stack": "100bb",
-        "vil": "",
-	"info": "vs type player"
-    },
-    {
-        "action": "OR",
-        "basename": "openraising 100bb utg-utg2.png",
-        "dir": "Openraising 40-100bb",
-        "filename": "ranges/Openraising 40-100bb/openraising 100bb utg-utg2.png",
-        "hero": "utg-utg2",
-        "stack": "100bb",
-        "vil": ""
     },
     {
         "action": "Pushing",
