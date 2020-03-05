@@ -1,0 +1,1342 @@
+[
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs BTN.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BB vs BTN.JPG", 
+        "hero": "BB", 
+        "label": "BB VS BTN", 
+        "stack": "40bb", 
+        "vil": "BTN"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs CO.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BB vs CO.JPG", 
+        "hero": "BB", 
+        "label": "BB VS CO", 
+        "stack": "40bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs MP.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BB vs MP.JPG", 
+        "hero": "BB", 
+        "label": "BB VS MP", 
+        "stack": "40bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs SB.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BB vs SB.JPG", 
+        "hero": "BB", 
+        "label": "BB VS SB", 
+        "stack": "40bb", 
+        "vil": "SB"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BB vs UTG.JPG", 
+        "hero": "BB", 
+        "label": "BB VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs CO.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BTN vs CO.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS CO", 
+        "stack": "40bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs MP.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BTN vs MP.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS MP", 
+        "stack": "40bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/BTN vs UTG.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs MP.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/CO vs MP.JPG", 
+        "hero": "CO", 
+        "label": "CO VS MP", 
+        "stack": "40bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/CO vs UTG.JPG", 
+        "hero": "CO", 
+        "label": "CO VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "HJ vs MP.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/HJ vs MP.JPG", 
+        "hero": "HJ", 
+        "label": "HJ VS MP", 
+        "stack": "40bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "HJ vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/HJ vs UTG.JPG", 
+        "hero": "HJ", 
+        "label": "HJ VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "MP vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/MP vs UTG.JPG", 
+        "hero": "MP", 
+        "label": "MP VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs BTN.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/SB vs BTN.JPG", 
+        "hero": "SB", 
+        "label": "SB VS BTN", 
+        "stack": "40bb", 
+        "vil": "BTN"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs CO.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/SB vs CO.JPG", 
+        "hero": "SB", 
+        "label": "SB VS CO", 
+        "stack": "40bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs MP.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/SB vs MP.JPG", 
+        "hero": "SB", 
+        "label": "SB VS MP", 
+        "stack": "40bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/SB vs UTG.JPG", 
+        "hero": "SB", 
+        "label": "SB VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "UTG1 vs UTG.JPG", 
+        "dir": "Flat3bet 40bb", 
+        "filename": "ryeweb/Flat3bet 40bb/UTG1 vs UTG.JPG", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG", 
+        "stack": "40bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs BTN.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs BTN.JPG", 
+        "hero": "BB", 
+        "label": "BB VS BTN", 
+        "stack": "50bb", 
+        "vil": "BTN"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs CO.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs CO.JPG", 
+        "hero": "BB", 
+        "label": "BB VS CO", 
+        "stack": "50bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs HJ.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs HJ.JPG", 
+        "hero": "BB", 
+        "label": "BB VS HJ", 
+        "stack": "50bb", 
+        "vil": "HJ"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs MP.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs MP.JPG", 
+        "hero": "BB", 
+        "label": "BB VS MP", 
+        "stack": "50bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs SB.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs SB.JPG", 
+        "hero": "BB", 
+        "label": "BB VS SB", 
+        "stack": "50bb", 
+        "vil": "SB"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs CO.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BTN vs CO.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS CO", 
+        "stack": "50bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs MP.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BTN vs MP.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS MP", 
+        "stack": "50bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BTN vs UTG.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BTN vs UTG.JPG", 
+        "hero": "BTN", 
+        "label": "BTN VS UTG", 
+        "stack": "50bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs UTG.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/CO vs UTG.JPG", 
+        "hero": "CO", 
+        "label": "CO VS UTG", 
+        "stack": "50bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "MP vs UTG.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/MP vs UTG.JPG", 
+        "hero": "MP", 
+        "label": "MP VS UTG", 
+        "stack": "50bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs BTN.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/SB vs BTN.JPG", 
+        "hero": "SB", 
+        "label": "SB VS BTN", 
+        "stack": "50bb", 
+        "vil": "BTN"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs CO.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/SB vs CO.JPG", 
+        "hero": "SB", 
+        "label": "SB VS CO", 
+        "stack": "50bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs MP.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/SB vs MP.JPG", 
+        "hero": "SB", 
+        "label": "SB VS MP", 
+        "stack": "50bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs UTG.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/SB vs UTG.JPG", 
+        "hero": "SB", 
+        "label": "SB VS UTG", 
+        "stack": "50bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs UTG1.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/BB vs UTG1.JPG", 
+        "hero": "BB", 
+        "label": "BB VS UTG1", 
+        "stack": "50bb", 
+        "vil": "UTG1"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "UTG1 vs UTG.JPG", 
+        "dir": "Flat3bet 50bb", 
+        "filename": "ryeweb/Flat3bet 50bb/UTG1 vs UTG.JPG", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG", 
+        "stack": "50bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "OR", 
+        "basename": "BU -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/BU -20bb.PNG", 
+        "hero": "BU", 
+        "label": "BU", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "CO -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/CO -20bb.PNG", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "HJ -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/HJ -20bb.PNG", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "MP -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/MP -20bb.PNG", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "SB -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/SB -20bb.PNG", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/UTG -20bb.PNG", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG1 -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/UTG1 -20bb.PNG", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG2 -20bb.PNG", 
+        "dir": "OR 20bb", 
+        "filename": "ryeweb/OR 20bb/UTG2 -20bb.PNG", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "20bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "BU -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/BU -30bb.PNG", 
+        "hero": "BU", 
+        "label": "BU", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "CO -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/CO -30bb.PNG", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "HJ -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/HJ -30bb.PNG", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "MP -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/MP -30bb.PNG", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "SB -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/SB -30bb.PNG", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/UTG -30bb.PNG", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG1 -30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/UTG1 -30bb.PNG", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG2 - 30bb.PNG", 
+        "dir": "OR 30bb", 
+        "filename": "ryeweb/OR 30bb/UTG2 - 30bb.PNG", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "30bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "BU -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/BU -40bb.PNG", 
+        "hero": "BU", 
+        "label": "BU", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "CO -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/CO -40bb.PNG", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "HJ -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/HJ -40bb.PNG", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "MP -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/MP -40bb.PNG", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "SB -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/SB -40bb.PNG", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "utg -40bb.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/utg -40bb.PNG", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "utg2.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/utg2.PNG", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG1.PNG", 
+        "dir": "OR 40bb", 
+        "filename": "ryeweb/OR 40bb/UTG1.PNG", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "40bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "MP.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/MP.PNG", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/UTG.PNG", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG1.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/UTG1.PNG", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG2.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/UTG2.PNG", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "SB.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/SB.PNG", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "HJ.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/HJ.PNG", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "CO.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/CO.PNG", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "BU.PNG", 
+        "dir": "OR 60bb", 
+        "filename": "ryeweb/OR 60bb/BU.PNG", 
+        "hero": "BU", 
+        "label": "BU", 
+        "stack": "60bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "BU -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/BU -100bb.PNG", 
+        "hero": "BU", 
+        "label": "BU", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "CO -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/CO -100bb.PNG", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "HJ -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/HJ -100bb.PNG", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "MP -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/MP -100bb.PNG", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "SB -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/SB -100bb.PNG", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/UTG -100bb.PNG", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "UTG1 -100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/UTG1 -100bb.PNG", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR", 
+        "basename": "utg2 - 100bb.PNG", 
+        "dir": "OR 100bb", 
+        "filename": "ryeweb/OR 100bb/utg2 - 100bb.PNG", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "100bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR-SB", 
+        "basename": "Mixed - Good opponent.PNG", 
+        "dir": "OR-SB 40bb+", 
+        "filename": "ryeweb/OR-SB 40bb+/Mixed - Good opponent.PNG", 
+        "hero": "MIXED - GOOD OPPONENT", 
+        "label": "MIXED - GOOD OPPONENT", 
+        "stack": "40bb+", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR-SB", 
+        "basename": "Mixed- passive.PNG", 
+        "dir": "OR-SB 40bb+", 
+        "filename": "ryeweb/OR-SB 40bb+/Mixed- passive.PNG", 
+        "hero": "MIXED- PASSIVE", 
+        "label": "MIXED- PASSIVE", 
+        "stack": "40bb+", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR-SB", 
+        "basename": "OR - Good opponent.PNG", 
+        "dir": "OR-SB 40bb+", 
+        "filename": "ryeweb/OR-SB 40bb+/OR - Good opponent.PNG", 
+        "hero": "OR - GOOD OPPONENT", 
+        "label": "OR - GOOD OPPONENT", 
+        "stack": "40bb+", 
+        "vil": ""
+    }, 
+    {
+        "action": "OR-SB", 
+        "basename": "OR -tight opponent.PNG", 
+        "dir": "OR-SB 40bb+", 
+        "filename": "ryeweb/OR-SB 40bb+/OR -tight opponent.PNG", 
+        "hero": "OR -TIGHT OPPONENT", 
+        "label": "OR -TIGHT OPPONENT", 
+        "stack": "40bb+", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "BTN.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/BTN.png", 
+        "hero": "BTN", 
+        "label": "BTN", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "CO.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/CO.png", 
+        "hero": "CO", 
+        "label": "CO", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "HJ.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/HJ.png", 
+        "hero": "HJ", 
+        "label": "HJ", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "MP.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/MP.png", 
+        "hero": "MP", 
+        "label": "MP", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "UTG.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/UTG.png", 
+        "hero": "UTG", 
+        "label": "UTG", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "UTG1.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/UTG1.png", 
+        "hero": "UTG1", 
+        "label": "UTG1", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "UTG2.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/UTG2.png", 
+        "hero": "UTG2", 
+        "label": "UTG2", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "Push", 
+        "basename": "SB.png", 
+        "dir": "Push 10bb", 
+        "filename": "ryeweb/Push 10bb/SB.png", 
+        "hero": "SB", 
+        "label": "SB", 
+        "stack": "10bb", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 12_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 12_.png", 
+        "hero": "VS 12 ", 
+        "label": "VS 12 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 15_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 15_.png", 
+        "hero": "VS 15 ", 
+        "label": "VS 15 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 20_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 20_.png", 
+        "hero": "VS 20 ", 
+        "label": "VS 20 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 25_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 25_.png", 
+        "hero": "VS 25 ", 
+        "label": "VS 25 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "Vs 30_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/Vs 30_.png", 
+        "hero": "VS 30 ", 
+        "label": "VS 30 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "Vs 35_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/Vs 35_.png", 
+        "hero": "VS 35 ", 
+        "label": "VS 35 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 40_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 40_.png", 
+        "hero": "VS 40 ", 
+        "label": "VS 40 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 45_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 45_.png", 
+        "hero": "VS 45 ", 
+        "label": "VS 45 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "BB-defense", 
+        "basename": "VS 50_.png", 
+        "dir": "BB-defense", 
+        "filename": "ryeweb/BB-defense/VS 50_.png", 
+        "hero": "VS 50 ", 
+        "label": "VS 50 ", 
+        "stack": "VS % OPEN", 
+        "vil": ""
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs SB.JPG", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/BB vs SB.JPG", 
+        "hero": "BB", 
+        "label": "BB VS SB", 
+        "stack": "20bb", 
+        "vil": "SB"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs UTG.JPG", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/BB vs UTG.JPG", 
+        "hero": "BB", 
+        "label": "BB VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bb_vs_bu.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bb_vs_bu.jpg", 
+        "hero": "BB", 
+        "label": "BB VS BU", 
+        "stack": "20bb", 
+        "vil": "BU"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bb_vs_co.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bb_vs_co.jpg", 
+        "hero": "BB", 
+        "label": "BB VS CO", 
+        "stack": "20bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bb_vs_mp.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bb_vs_mp.jpg", 
+        "hero": "BB", 
+        "label": "BB VS MP", 
+        "stack": "20bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bu_vs_co.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bu_vs_co.jpg", 
+        "hero": "BU", 
+        "label": "BU VS CO", 
+        "stack": "20bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bu_vs_mp.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bu_vs_mp.jpg", 
+        "hero": "BU", 
+        "label": "BU VS MP", 
+        "stack": "20bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "bu_vs_utg.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/bu_vs_utg.jpg", 
+        "hero": "BU", 
+        "label": "BU VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "co_vs_hj.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/co_vs_hj.jpg", 
+        "hero": "CO", 
+        "label": "CO VS HJ", 
+        "stack": "20bb", 
+        "vil": "HJ"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "co_vs_mp.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/co_vs_mp.jpg", 
+        "hero": "CO", 
+        "label": "CO VS MP", 
+        "stack": "20bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "hj_vs_mp.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/hj_vs_mp.jpg", 
+        "hero": "HJ", 
+        "label": "HJ VS MP", 
+        "stack": "20bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "hj_vs_utg.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/hj_vs_utg.jpg", 
+        "hero": "HJ", 
+        "label": "HJ VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "mp_vs_utg.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/mp_vs_utg.jpg", 
+        "hero": "MP", 
+        "label": "MP VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "sb_vs_bu.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/sb_vs_bu.jpg", 
+        "hero": "SB", 
+        "label": "SB VS BU", 
+        "stack": "20bb", 
+        "vil": "BU"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "sb_vs_co.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/sb_vs_co.jpg", 
+        "hero": "SB", 
+        "label": "SB VS CO", 
+        "stack": "20bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "sb_vs_mp.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/sb_vs_mp.jpg", 
+        "hero": "SB", 
+        "label": "SB VS MP", 
+        "stack": "20bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "sb_vs_utg.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/sb_vs_utg.jpg", 
+        "hero": "SB", 
+        "label": "SB VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "utg1_vs_utg.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/utg1_vs_utg.jpg", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "utg1_vs_utg_alternative.jpg", 
+        "dir": "Flat3bet 20bb", 
+        "filename": "ryeweb/Flat3bet 20bb/utg1_vs_utg_alternative.jpg", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG ALTERNATIVE", 
+        "stack": "20bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs BU.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs BU.png", 
+        "hero": "BB", 
+        "label": "BB VS BU", 
+        "stack": "30bb", 
+        "vil": "BU"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs CO.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs CO.png", 
+        "hero": "BB", 
+        "label": "BB VS CO", 
+        "stack": "30bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs HJ.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs HJ.png", 
+        "hero": "BB", 
+        "label": "BB VS HJ", 
+        "stack": "30bb", 
+        "vil": "HJ"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs MP.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs MP.png", 
+        "hero": "BB", 
+        "label": "BB VS MP", 
+        "stack": "30bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs SB.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs SB.png", 
+        "hero": "BB", 
+        "label": "BB VS SB", 
+        "stack": "30bb", 
+        "vil": "SB"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BB vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BB vs UTG.png", 
+        "hero": "BB", 
+        "label": "BB VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BU vs CO.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BU vs CO.png", 
+        "hero": "BU", 
+        "label": "BU VS CO", 
+        "stack": "30bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BU vs MP.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BU vs MP.png", 
+        "hero": "BU", 
+        "label": "BU VS MP", 
+        "stack": "30bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "BU vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/BU vs UTG.png", 
+        "hero": "BU", 
+        "label": "BU VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs HJ.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/CO vs HJ.png", 
+        "hero": "CO", 
+        "label": "CO VS HJ", 
+        "stack": "30bb", 
+        "vil": "HJ"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs MP.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/CO vs MP.png", 
+        "hero": "CO", 
+        "label": "CO VS MP", 
+        "stack": "30bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "CO vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/CO vs UTG.png", 
+        "hero": "CO", 
+        "label": "CO VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "MP vs UTG 3bet only.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/MP vs UTG 3bet only.png", 
+        "hero": "MP", 
+        "label": "MP VS UTG 3BET ONLY", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "MP vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/MP vs UTG.png", 
+        "hero": "MP", 
+        "label": "MP VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs BU.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/SB vs BU.png", 
+        "hero": "SB", 
+        "label": "SB VS BU", 
+        "stack": "30bb", 
+        "vil": "BU"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs CO.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/SB vs CO.png", 
+        "hero": "SB", 
+        "label": "SB VS CO", 
+        "stack": "30bb", 
+        "vil": "CO"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs MP.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/SB vs MP.png", 
+        "hero": "SB", 
+        "label": "SB VS MP", 
+        "stack": "30bb", 
+        "vil": "MP"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "SB vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/SB vs UTG.png", 
+        "hero": "SB", 
+        "label": "SB VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "UTG1 vs UTG.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/UTG1 vs UTG.png", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }, 
+    {
+        "action": "Flat3bet", 
+        "basename": "UTG1 vs UTG 3bet only.png", 
+        "dir": "Flat3bet 30bb", 
+        "filename": "ryeweb/Flat3bet 30bb/UTG1 vs UTG 3bet only.png", 
+        "hero": "UTG1", 
+        "label": "UTG1 VS UTG 3BET ONLY", 
+        "stack": "30bb", 
+        "vil": "UTG"
+    }
+]
